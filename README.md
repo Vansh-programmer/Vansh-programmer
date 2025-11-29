@@ -1,33 +1,56 @@
-👋 Hey, I'm Vansh Poonia
-🚀 Student | Web Developer | AI/ML Learner | Problem Solver
+<!-- Banner -->
+<h1 align="center">✨ Hey, I'm <span style="color:#6C63FF">Vansh Poonia</span> ✨</h1>
+<h3 align="center">Web Developer • AI/ML Learner • Student Explorer</h3>
 
-🔭 I’m currently working on:
-Building fun mini–projects & learning real-world development skills
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-🌱 Currently learning:
-Web Development, AI/ML, and improving my DSA
+---
 
-👯 Open to collaborate on:
-Mini-projects, open-source contributions, and creative ideas
+## 🚀 About Me
 
-🤔 I need help with:
-DSA & competitive problem-solving
+- 🎓 **Student** — BTech CSE  
+- 🌱 Currently learning **Web Development**, **AI/ML**, and **DSA**  
+- 👯 Looking to collaborate on **fun mini-projects**  
+- 💬 Ask me about **life, learning, and development**  
+- 🌍 From **Gagarwas → Rajgarh → Churu → Rajasthan**  
+- 🏫 Studying at **Avantika University, Ujjain**  
+- 📫 Reach me at **vanshpooniag@gmail.com**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun Fact: *Minecraft is where creativity becomes reality.*  
 
-💬 Ask me about:
+---
 
-Life as a BTech CSE student
+## 🎨 Tech Stack
 
-Web Dev & AI beginner journey
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,linux,vscode&theme=light" />
+</p>
 
-My hometown: Gagarwas, Rajgarh, Churu (Rajasthan)
+---
 
-My college: Avantika University, Ujjain
+## 📊 GitHub Analytics
 
-📫 Reach me at:
-vanshpooniag@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-😄 Pronouns:
-He/Him
+---
 
-⚡ Fun fact:
-Minecraft is the best place to turn imagination into reality.
+## ✨ Fun Quote
+
+> *“Code. Create. Break. Learn. Repeat.”*
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:vanshpooniag@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+---
+
+<p align="center">💙 Thanks for visiting my profile! Have a great day! 💙</p>
