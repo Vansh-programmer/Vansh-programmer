@@ -1,26 +1,33 @@
-## Hi there 👋
+👋 Hey, I'm Vansh Poonia
+🚀 Student | Web Developer | AI/ML Learner | Problem Solver
 
-<!--
-**Vansh-programmer/Vansh-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
+Building fun mini–projects & learning real-world development skills
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+Web Development, AI/ML, and improving my DSA
 
-- 🔭 I’m currently working on ...
-Student
-- 🌱 I’m currently learning ...
-Web Dev, AI ML
-- 👯 I’m looking to collaborate on ...
-Fun mini Projects
-- 🤔 I’m looking for help with ...
-DSA
-- 💬 Ask me about ...
-Vansh Poonia
-Rajasthan,Churu,Rajgarsh,Gagarwas
-Avantika University Ujjian
-- 📫 How to reach me: ...
+👯 Open to collaborate on:
+Mini-projects, open-source contributions, and creative ideas
+
+🤔 I need help with:
+DSA & competitive problem-solving
+
+💬 Ask me about:
+
+Life as a BTech CSE student
+
+Web Dev & AI beginner journey
+
+My hometown: Gagarwas, Rajgarh, Churu (Rajasthan)
+
+My college: Avantika University, Ujjain
+
+📫 Reach me at:
 vanshpooniag@gmail.com
-- 😄 Pronouns: ...
-He
-- ⚡ Fun fact: ...
-Minecraft is game where we can show our creativity
--->
+
+😄 Pronouns:
+He/Him
+
+⚡ Fun fact:
+Minecraft is the best place to turn imagination into reality.
