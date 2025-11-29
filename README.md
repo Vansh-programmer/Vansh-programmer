@@ -3,8 +3,9 @@
 <h3 align="center">Web Developer • AI/ML Learner • Student Explorer</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Vansh-programmer&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
