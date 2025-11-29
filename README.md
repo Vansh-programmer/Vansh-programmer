@@ -10,21 +10,21 @@
 ## 🚀 About Me
 
 - 🎓 **Student** — BTech CSE  
-- 🌱 Learning **Web Development**, **AI/ML**, and improving **DSA**  
+- 🌱 Learning **Web Development**, **AI/ML**, and **DSA**  
 - 👯 Open to collaborating on **fun mini-projects**  
-- 💬 Ask me about **Vansh Poonia**, tech, or my journey  
+- 💬 Ask me about **Vansh Poonia**, tech & learning  
 - 🌍 From **Gagarwas → Rajgarh → Churu → Rajasthan**  
 - 🏫 Studying at **Avantika University, Ujjain**  
-- 📫 Contact: **vanshpooniag@gmail.com**  
+- 📫 Email: **vanshpooniag@gmail.com**  
 - 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: *Minecraft is pure creativity.*  
+- ⚡ Fun fact: *Minecraft lets you build your imagination.*  
 
 ---
 
 ## 🎨 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,linux,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,linux,vscode" />
 </p>
 
 ---
@@ -32,14 +32,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh-programmer&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-programmer&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api?username=Vansh-programmer&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=Vansh-programmer&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
 
 ---
 
-## ✨ Fun Quote
-
+## ✨ Fun Quote  
 > *“Code. Create. Break. Learn. Repeat.”*
 
 ---
@@ -52,4 +52,4 @@
 
 ---
 
-<p align="center">💙 Thanks for visiting my profile! Have a great day! 💙</p>
+<p align="center">💙 Thanks for visiting my profile! 💙</p>
