@@ -29,12 +29,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api?username=Vansh-programmer&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=Vansh-programmer&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 
 ---
